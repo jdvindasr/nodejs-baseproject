@@ -1,0 +1,20 @@
+{
+    "test1" : "test mensagge",
+
+    "general_invalidId": "Id inválido",
+    "general_idNotExits": "El Id no existe",
+
+
+    "business_namerequiered" : "Name is required",
+    "business_successAdd" : "New business added successfully",
+    "business_allreadyExits" : "There is a business with the name",
+    "business_successUpdate" : "Business updated successfully",
+    "business_activeWrongFormat" : "Wrong format of state",
+
+    "brand_nameRequiered" : "Name is required",
+    "brand_codeRequiered" : "Code is required",
+    "brand_successAdd" : "New brand added successfully",
+    "brand_allreadyExits" : "There is a brand with the name",
+    "brand_successUpdate" : "Brand updated successfully",
+    "brand_activeWrongFormat" : "Wrong format of state"
+}

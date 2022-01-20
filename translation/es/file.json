@@ -1,0 +1,22 @@
+{
+    "test1" : "mensaje de prueba",
+
+    "general_invalidId": "Invalid ID",
+    "general_idNotExits": "ID doesn't exists",
+    
+
+
+    "business_nameRequiered" : "Nombre es requerido",
+    "business_successAdd" : "Nueva empresa agregada con exito",
+    "business_allreadyExits" : "Ya existe una empresa con el nombre indicado",
+    "business_successUpdate" : "Empresa actualizada con exito",
+    "business_activeWrongFormat" : "Formato de estado incorrecto",
+
+    "brand_nameRequiered" : "Nombre es requerido",
+    "brand_codeRequiered" : "Código es requerido",
+    "brand_successAdd" : "Nueva marca agregada con exito",
+    "brand_allreadyExits" : "Ya existe una marca con el nombre indicado",
+    "brand_successUpdate" : "Marca actualizada con exito",
+    "brand_activeWrongFormat" : "Formato de estado incorrecto"
+
+}
