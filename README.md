@@ -28,12 +28,12 @@ I recommend using the following commands to run the server.
 
 ```bash
 tsc --watch
-
+```
 and in other terminal
 
 ```bash
 nodemon dist/app.js
-
+```
 After that using postman, you can make a request. In the routes folder, you can get the definition of the methods.
 
 ## Contributing
